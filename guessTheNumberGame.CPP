@@ -37,5 +37,6 @@ int main()
             break;
         }
     } while (num != randNum);
+    getch();
     return 0;
 }
